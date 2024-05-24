@@ -1,24 +1,10 @@
-# README
+This is a Template rails project.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Webpack is installed and setup. 
+  Run the dev server with ./bin/webpack-dev-server
 
-Things you may want to cover:
+Stimulus is installed and setup.
+Turbo is installed and setup!
 
-* Ruby version
+I created this so I would have a nice starting off point for any future projects. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
